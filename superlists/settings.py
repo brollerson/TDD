@@ -25,7 +25,7 @@ SECRET_KEY = '&*iop0k83^%o=2ujrc5ledt*if84$i)b2+z898=p^+^rgqgg1l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['brucerollerson.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
